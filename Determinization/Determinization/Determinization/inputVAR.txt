@@ -1,0 +1,8 @@
+L
+S -> Ab | b
+A -> Sc | c | Aa
+
+
+R
+S -> aS | aB | cS | c
+B -> bB | aB | a
